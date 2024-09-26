@@ -9,7 +9,6 @@ screen.bgcolor("black")
 t.color("pink")
 t.speed(0)
 
-
 def corazon(k):
     return 16 * math.sin(k) ** 3
 
